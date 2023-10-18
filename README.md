@@ -42,6 +42,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=2500&pause=805&color=00FF00&center=true&vCenter=true&width=435&lines=STATISTICS" alt="Typing SVG" /></a>
 </p>
 
-![Xeltrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=xeltrim&show_icons=true&theme=chartreuse-dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Xeltrim&theme=chartreuse-dark&card_width=467)](https://git.io/streak-stats)
+<p align="center">
+<img width="230px" src="https://github-readme-stats.vercel.app/api?username=xeltrim&show_icons=true&theme=chartreuse-dark" alt="Xeltrim's GitHub stats">
+<img width="230px" src="https://streak-stats.demolab.com?user=Xeltrim&theme=chartreuse-dark&card_width=467" alt="GitHub Streak">
+</p>
