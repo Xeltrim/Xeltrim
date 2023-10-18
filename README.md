@@ -43,9 +43,9 @@
 </p>
 
 <p align="center">
-<img width="auto" src="https://github-readme-stats.vercel.app/api?username=xeltrim&show_icons=true&theme=chartreuse-dark" alt="Xeltrim's GitHub stats">
-<img width="auto" src="https://streak-stats.demolab.com?user=xeltrim&theme=chartreuse-dark&card_width=467" alt="GitHub Streak">
-<img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeltrim&theme=chartreuse-dark&amp;langs_count=8" alt="Top Langs">
+<img width="" src="https://github-readme-stats.vercel.app/api?username=xeltrim&show_icons=true&theme=chartreuse-dark" alt="Xeltrim's GitHub stats">
+<img width="" src="https://streak-stats.demolab.com?user=xeltrim&theme=chartreuse-dark&card_width=467" alt="GitHub Streak">
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeltrim&theme=chartreuse-dark&amp;langs_count=8" alt="Top Langs">
 </p>
 
 <!---Needs edit-->
