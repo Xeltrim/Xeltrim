@@ -13,7 +13,7 @@
 
 <!---About Me-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=2000&pause=800&color=00d9c6&center=true&vCenter=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=00d9c6&center=true&vCenter=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 <!---Achievements-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=2500&pause=800&color=d8687a&center=true&vCenter=true&width=435&lines=ACHIEVEMENTS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=d8687a&center=true&vCenter=true&width=435&lines=ACHIEVEMENTS" alt="Typing SVG" /></a>
 </p>
 
 [![An image of @xeltrim's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xeltrim)](https://holopin.io/@xeltrim)
@@ -39,7 +39,7 @@
 
 <!---Statistics-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=2500&pause=805&color=00FF00&center=true&vCenter=true&width=435&lines=STATISTICS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=805&color=00FF00&center=true&vCenter=true&width=435&lines=STATISTICS" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
