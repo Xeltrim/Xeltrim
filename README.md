@@ -48,7 +48,7 @@
 <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeltrim&theme=chartreuse-dark&amp;langs_count=8" alt="Top Langs">
 </p>
 
-<!---Needs edit-->
+<!---Socials-->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=805&color=FA8000&center=true&vCenter=true&width=435&lines=SOCIALS" alt="Socials" /></a>
 
@@ -63,8 +63,10 @@
 <a href="https://auth.geeksforgeeks.org/user/anyketnaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anyketnaskar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-
+<!---Languages-->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=196BA0&center=true&vCenter=true&random=false&width=435&lines=LANGUAGES" alt="Typing SVG" /></a>
+</p>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="65" height="65"/>
