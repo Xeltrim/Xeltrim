@@ -17,13 +17,13 @@
 </p>
 
 <p align="center">
-<p>Self-learned and self-motivated Ethical Hacker and Programmer with beginner level of experience working on projects. Passionate, hardworking and likes to learn new technologies.</p>
+<p>Passionate and driven individual with a keen interest in technology, creativity, and problem-solving. Known for effective communication and adaptability, I thrive in collaborative environments. With a background in technology and business, I bring a unique blend of skills, enthusiasm, and a commitment to continuous learning. Whether crafting code or shaping ideas, I'm dedicated to making a positive impact and fostering innovation.</p>
 </p>
 
 <!---Placeholder image-->
 <p align="center">
   
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)mm
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 </p>
 
