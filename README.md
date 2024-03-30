@@ -51,7 +51,9 @@
 <!---Socials-->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=805&color=FA8000&center=true&vCenter=true&width=435&lines=SOCIALS" alt="Socials" /></a>
+</p>
 
+<p align="center">
 <a href="https://twitter.com/intent/user?screen_name=anyketnaskar&original_referer=https://developer.twitter.com/en/docs/twitter-for-websites/web-intents/overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anyketnaskar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anyketnaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anyket-naskar-b12079293" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22706362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22706362" height="30" width="40" /></a>
@@ -65,7 +67,7 @@
 
 <!---Languages-->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=196BA0&center=true&vCenter=true&random=false&width=435&lines=LANGUAGES" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=0089e3&center=true&vCenter=true&random=false&width=435&lines=LANGUAGES" alt="Typing SVG" /></a>
 </p>
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/> 
