@@ -80,3 +80,5 @@
 <a href="https://www.leetcode.com/anyketnaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anyketnaskar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anyketnaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anyketnaskar" height="30" width="40" /></a>
 </p>
+
+![snake gif](https://github.com/Xeltrim/Xeltrim/blob/output/github-contribution-grid-snake-dark.svg)
