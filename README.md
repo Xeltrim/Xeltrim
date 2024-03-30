@@ -48,6 +48,22 @@
 <img width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeltrim&theme=chartreuse-dark&amp;langs_count=8" alt="Top Langs">
 </p>
 
+<!---Languages-->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=0089e3&center=true&vCenter=true&random=false&width=435&lines=LANGUAGES" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="55" height="55"/>
+      <img src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg" alt="Solidity" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
+      <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="55" height="55"/>
+      <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="55" height="55"/>
+      <img src="https://cdn-icons-png.flaticon.com/128/919/919837.png" alt="Bash" width="60" height="60"/>
+</p>
+
 <!---Socials-->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=805&color=FA8000&center=true&vCenter=true&width=435&lines=SOCIALS" alt="Socials" /></a>
@@ -63,20 +79,4 @@
 <a href="https://codeforces.com/profile/anyketnaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anyketnaskar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anyketnaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anyketnaskar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anyketnaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anyketnaskar" height="30" width="40" /></a>
-</p>
-
-<!---Languages-->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=0089e3&center=true&vCenter=true&random=false&width=435&lines=LANGUAGES" alt="Typing SVG" /></a>
-</p>
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css3" width="65" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="Reactjs" width="55" height="55"/>
-      <img src="https://upload.vectorlogo.zone/logos/ethereum_solidity/images/a716e883-fdc5-44ac-b5be-64e401232a50.svg" alt="Solidity" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-      <img src="https://cdn-icons-png.flaticon.com/128/3665/3665923.png" alt="C" width="55" height="55"/>
-      <img src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" alt="C++" width="55" height="55"/>
-      <img src="https://cdn-icons-png.flaticon.com/128/919/919837.png" alt="Bash" width="60" height="60"/>
 </p>
