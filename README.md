@@ -16,9 +16,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=25&duration=1&pause=800&color=00d9c6&center=true&vCenter=true&width=435&lines=ABOUT+ME" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">
-<p>Passionate and driven individual with a keen interest in technology, creativity, and problem-solving. Known for effective communication and adaptability, I thrive in collaborative environments. With a background in technology and business, I bring a unique blend of skills, enthusiasm, and a commitment to continuous learning. Whether crafting code or shaping ideas, I'm dedicated to making a positive impact and fostering innovation.</p>
-</p>
+<div align="center">
+
+🔭 I’m currently working on **a project**
+
+🌱 I’m currently learning **Entrepreneurship**
+
+💬 Ask me about **Programming, Cybersecurity and Entrepreneurship**
+
+⚡ Quote of the Day: **"The magic you're looking for is in the work you're avoiding"**
+
+</div>
 
 <!---Placeholder image-->
 <p align="center">
