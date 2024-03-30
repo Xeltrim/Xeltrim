@@ -10,6 +10,7 @@
 <!---Animated line gif-->
 <p  align="center">
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 <!---About Me-->
 <p align="center">
@@ -29,10 +30,9 @@
 </div>
 
 <!---Placeholder image-->
-<p align="center">
-  
-![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
+<p align="center">
+<img align="middle" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1768194395977027356/C7551B79397E4314A459027DE95A2751A83220E2/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 </p>
 
 <!---Achievements-->
