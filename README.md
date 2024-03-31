@@ -32,7 +32,7 @@
 <!---Placeholder image-->
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/1017193805963894999/D47EBCBD3E4B57FDAECF2F8F56BE69BFD9721CD0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/d9/1a/d7/d91ad79a3f6b1075fc48d63fd5f71afb.gif" />
 </p>
 
 <!---Achievements-->
